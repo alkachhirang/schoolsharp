@@ -13,7 +13,7 @@ const Popular2 = () => {
                     <div className='md:w-1/2 w-full flex md:justify-end pt-[30px] md:pt-[0]' data-aos="fade-left">
                         <div className=''>
                             <div className='w-[94px] h-[7px] bg-[#E74040]'></div>
-                            <p className='font-bold text-[40px] text-[#252B42] leading-[125%] tracking-[0.2px] m-0 pt-[15px] pb-[15px] md:pt-[35px] md:pb-[35px] lg:max-w-[257px]'>Our Popular
+                            <p className='font-bold  md:text-[40px] text-[32px] text-[#252B42] leading-[125%] tracking-[0.2px] m-0 pt-[15px] pb-[15px] md:pt-[35px] md:pb-[35px] lg:max-w-[257px]'>Our Popular
                                 Courses</p>
                             <p className='font-normal text-[14px] text-[#737373] leading-[142%] tracking-[0.2px] mb-[15px] md:pb-[35px] m-0 md:max-w-[351px]'>Problems trying to resolve the conflict between
                                 the two major realms of Classical physics:

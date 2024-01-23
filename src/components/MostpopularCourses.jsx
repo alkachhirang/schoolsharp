@@ -7,7 +7,7 @@ const MostpopularCourses = () => {
             <div className='container xl:max-w-[1074px] mx-auto lg:px-3 px-6'>
                 <div className='flex justify-center items-center flex-col' data-aos="fade-down">
                     <h2 className='text-[14px] text-[#96BB7C] font-bold leading-[171%] tracking-[0.2px] text-center m-0 pb-[10px]'>Practice Advice</h2>
-                    <p className='text-[#252B42] text-[24px] font-bold leading-[133%] text-center m-0 pb-[10px]'>Most Popular Courses</p>
+                    <p className='text-[#252B42] md:text-[40px] text-[32px] font-bold leading-[133%] text-center m-0 pb-[10px]'>Most Popular Courses</p>
                     <p className='text-[14px] font-normal leading-[142%] tracking-[0.2px] text-[#737373] m-0 lg:max-w-[469px] text-center'>Problems trying to resolve the conflict between
                         the two major realms of Classical physics: Newtonian mechanics </p>
                 </div>

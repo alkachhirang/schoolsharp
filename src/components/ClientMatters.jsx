@@ -22,7 +22,7 @@ const ClientMatters = () => {
                         <h2 className=" text-center text-[#252B42] sm:text-[40px] text-[29px] leading-[125%] font-bold tracking-[0.2px] pb-[10px] ">
                             Every Client Matters
                         </h2>
-                        <p className=" text-[#737373] text-sm leading-[142.857%] tracking-[0.2px] font-bold text-center">
+                        <p className=" text-[#737373] text-sm leading-[142.857%] tracking-[0.2px] font-normal text-center">
                             <span className=" sm:block">
                                 {" "}
                                 Problems trying to resolve the conflict between
@@ -119,7 +119,7 @@ const ClientMatters = () => {
                             <div className=" pt-[25px] px-[25px] pb-[35px] flex flex-col items-start gap-[10px]">
                                 <div className=" w-full flex justify-between items-center">
                                     <p className=" text-[#96BB7C] !leading-[171.429%] text-sm tracking-[0.2px] font-bold ">
-                                        Books Liberary{" "}
+                                        Training Courses{" "}
                                     </p>
                                     <button className=" flex gap-[5px] items-center p-[5px] bg-[#2D4059] rounded-[20px] hover:bg-[#96bb7c] transition-colors duration-500 ease-linear text-white text-xs !leading-[133.333%] tracking-[0.2px] font-normal ">
                                         <span>
@@ -129,7 +129,7 @@ const ClientMatters = () => {
                                     </button>
                                 </div>
                                 <p className=" text-[#252B42] text-base !leading-[150%] tracking-[0.1px] font-bold lg:max-w-[131px] ">
-                                    Get Quality Education
+                                    Video in Live Action
                                 </p>
                                 <p className=" text-[#737373] text-sm !leading-[142.857%] font-normal tracking-[0.2px]  ">
                                     We focus on ergonomics and meeting you where you work. It's
