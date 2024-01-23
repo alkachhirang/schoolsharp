@@ -19,8 +19,10 @@ const Popular2 = () => {
                                 the two major realms of Classical physics:
                                 Newtonian mechanics </p>
                             <div className='flex gap-[10px] items-center'>
-                                <p className='font-bold text-[14px] leading-[171%] tracling-[0.2px] text-[#96BB7C] m-0'>Learn More</p>
-                                <Learnsvg />
+                                <p className='font-bold text-[14px] leading-[171%] tracling-[0.2px] text-[#96BB7C] m-0 cursor-pointer'>Learn More</p>
+                                <div className='cursor-pointer'>
+                                    <Learnsvg />
+                                </div>
                             </div>
                         </div>
                     </div>
